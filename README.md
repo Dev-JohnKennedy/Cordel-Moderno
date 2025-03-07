@@ -4,7 +4,8 @@ Este projeto é uma homenagem à literatura de cordel, apresentando o poema "Cor
 
 Descrição
 
-O site "Cordel Moderno" foi desenvolvido utilizando HTML e CSS, com o objetivo de criar uma experiência de leitura imersiva e visualmente atraente para o poema de Milton Duarte. O projeto destaca a beleza da literatura de cordel e a contrasta com a modernidade da tecnologia, tema central do poema.
+O site "Cordel Moderno" foi desenvolvido utilizando HTML e CSS, com o objetivo de criar uma experiência de leitura imersiva e visualmente atraente para o poema de Milton Duarte.
+O projeto destaca a beleza da literatura de cordel e a contrasta com a modernidade da tecnologia, tema central do poema.
 
 Funcionalidades
 
